@@ -1,0 +1,21 @@
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\bin\Debug\DrLektor.exe.config
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\bin\Debug\DrLektor.exe
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\bin\Debug\DrLektor.pdb
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\obj\Debug\DrLektor.csprojResolveAssemblyReference.cache
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\obj\Debug\MainWindow.g.cs
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\obj\Debug\App.g.cs
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\obj\Debug\DrLektor_MarkupCompile.cache
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\obj\Debug\DrLektor_MarkupCompile.lref
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\obj\Debug\MainWindow.baml
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\obj\Debug\DrLektor.g.resources
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\obj\Debug\DrLektor.Properties.Resources.resources
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\obj\Debug\DrLektor.csproj.GenerateResource.Cache
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\obj\Debug\DrLektor.exe
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\obj\Debug\DrLektor.pdb
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\bin\Debug\taglib-sharp.dll
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Juuke\Source\Repos\DrLektor\DrLektor\DrLektor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Juuke\Documents\Visual Studio 2015\Projects\DrLektor\DrLektor\bin\Debug\DrLektor.exe.config
+C:\Users\Juuke\Documents\Visual Studio 2015\Projects\DrLektor\DrLektor\obj\Debug\DrLektor.exe
+C:\Users\Juuke\Documents\Visual Studio 2015\Projects\DrLektor\DrLektor\obj\Debug\DrLektor.pdb

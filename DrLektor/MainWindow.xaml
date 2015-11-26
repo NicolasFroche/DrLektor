@@ -1,0 +1,20 @@
+﻿<Window x:Class="DrLektor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DrLektor"
+        mc:Ignorable="d"
+        Title="DrLekter" Height="350" Width="525">
+    <Window.DataContext>
+        <local:MusicListVM />
+    </Window.DataContext>
+    <Grid>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Margin="0,0,225,108">
+            <DataGrid x:Name="dataGrid" ItemsSource="{Binding Musics}"/>
+        </ScrollViewer>
+
+        <Button x:Name="LoadButton" Content="Load musics" Command="{Binding LoadMusics}" HorizontalAlignment="Left" Margin="77,216,0,0" VerticalAlignment="Top" Width="104"/>
+
+    </Grid>
+</Window>
